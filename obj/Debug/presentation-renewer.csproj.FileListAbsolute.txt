@@ -1,0 +1,16 @@
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\presentation-renewer.exe.config
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\presentation-renewer.exe
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\presentation-renewer.pdb
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.csproj.AssemblyReference.cache
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation_renewer.Form1.resources
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation_renewer.Properties.Resources.resources
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.csproj.GenerateResource.cache
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.csproj.CoreCompileInputs.cache
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.exe
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.pdb
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\Aspose.Slides.dll
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\Aspose.Slides.xml
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\obj\Debug\presentation-renewer.csproj.CopyComplete
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\house\Documents\Clouds\YandexDisk\Программерство\presentation-renewer\bin\Debug\DocumentFormat.OpenXml.xml
